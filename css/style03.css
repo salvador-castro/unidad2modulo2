@@ -1,0 +1,27 @@
+.contenedor{
+    border: 1px solid black;
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: auto;
+    height: 200px;
+    align-content: space-between;
+    }
+
+.rojo{
+	width: 200px;
+	height: 200px;
+    color: white;
+	font-size: 80px;
+    text-align: center;
+    background-color: red;
+}
+
+.blanco{
+	width: 200px;
+	height: 200px;
+	font-size: 80px;
+    text-align: center;
+    background-color: white;
+}
